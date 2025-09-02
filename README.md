@@ -88,14 +88,14 @@ Interactive Power BI dashboards include:
 
 
 ### 📂 Repository Structure
-`
-  📁 ESPN-Stats
- ┣ 📂 data/               # Raw crawled data (Batting, Bowling, Fielding)
- ┣ 📂 powerbi/            # Power BI .pbix files
- ┣ 📂 reports/            # Exported PDF/PNG of dashboards
- ┣ 📜 README.md           # Documentation
- ┗ 📜 requirements.txt    # Python crawling dependencies (if applicable)
-`
+    `
+      📁 ESPN-Stats
+     ┣ 📂 data/               # Raw crawled data (Batting, Bowling, Fielding)
+     ┣ 📂 powerbi/            # Power BI .pbix files
+     ┣ 📂 reports/            # Exported PDF/PNG of dashboards
+     ┣ 📜 README.md           # Documentation
+     ┗ 📜 requirements.txt    # Python crawling dependencies (if applicable)
+    `
 
 ### 🛠️ Tech Stack
 
@@ -125,3 +125,4 @@ Interactive Power BI dashboards include:
 - Automate data refresh from ESPN Stats into Power BI Cloud.
 
 - Add predictive modeling layer (Machine Learning integration).
+
